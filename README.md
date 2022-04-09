@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-Teste
-=======
-Livro de Receitas
+# Livero de receitas :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas
->>>>>>> b535c3f52614aba5b0a7b43cddeaa460b23ad188
+Olá! Bem vindo ao meu livro de receitas :wave:
+
+- Strogonoff de frango
+- Pavê
+- Bolo de Cenoura
